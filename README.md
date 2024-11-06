@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lawlite
+- 👋 Hi, I’m Rishwanth 
 - 👀 I’m interested in creating Bots
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on no one
